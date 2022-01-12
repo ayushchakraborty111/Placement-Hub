@@ -7,7 +7,7 @@ package placementhub;
 import java.sql.*;
 /**
  *
- * @author aditi
+ * @author hp
  */
 public class studentlogin extends javax.swing.JFrame {
     
